@@ -1,6 +1,6 @@
 {
   "name": "ng-numbers-only-input-directive",
-  "version": "0.0.3",
+  "version": "0.0.2",
   "description": "A package directive for block letters for only number input",
   "author": "Mushegh Zakaryan",
   "keywords": [

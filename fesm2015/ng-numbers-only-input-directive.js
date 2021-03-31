@@ -30,7 +30,7 @@ NgNumbersOnlyInputDirectiveModule.decorators = [
     { type: NgModule, args: [{
                 declarations: [NumbersOnlyDirective],
                 imports: [],
-                exports: []
+                exports: [NumbersOnlyDirective]
             },] }
 ];
 

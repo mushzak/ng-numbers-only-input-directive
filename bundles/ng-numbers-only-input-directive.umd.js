@@ -38,7 +38,7 @@
         { type: core.NgModule, args: [{
                     declarations: [NumbersOnlyDirective],
                     imports: [],
-                    exports: []
+                    exports: [NumbersOnlyDirective]
                 },] }
     ];
 
