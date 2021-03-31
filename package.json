@@ -1,0 +1,36 @@
+{
+  "name": "ng-numbers-only-input-directive",
+  "version": "0.0.3",
+  "description": "A package directive for block letters for only number input",
+  "author": "Mushegh Zakaryan",
+  "keywords": [
+    "angular",
+    "only-numbers",
+    "angular11",
+    "directive",
+    "number"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mushzak/ng-numbers-only-input-directive.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mushzak/ng-numbers-only-input-directive/issues"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": "^11.0.4",
+    "@angular/core": "^11.0.4"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "main": "bundles/ng-numbers-only-input-directive.umd.js",
+  "module": "fesm2015/ng-numbers-only-input-directive.js",
+  "es2015": "fesm2015/ng-numbers-only-input-directive.js",
+  "esm2015": "esm2015/ng-numbers-only-input-directive.js",
+  "fesm2015": "fesm2015/ng-numbers-only-input-directive.js",
+  "typings": "ng-numbers-only-input-directive.d.ts",
+  "metadata": "ng-numbers-only-input-directive.metadata.json",
+  "sideEffects": false
+}
